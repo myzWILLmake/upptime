@@ -60,7 +60,7 @@
     "url": "https://yunze.me",
     "icon": "https://favicons.githubusercontent.com/yunze.me",
     "slug": "yunze-me",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -71,6 +71,8 @@
     "timeWeek": 1273,
     "timeMonth": 1385,
     "timeYear": 1385,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-29": 0
+    }
   }
 ]
