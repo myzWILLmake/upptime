@@ -15,7 +15,9 @@
     "timeWeek": 210,
     "timeMonth": 148,
     "timeYear": 106,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-21": 0
+    }
   },
   {
     "name": "Wikipedia",
@@ -65,18 +67,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/yunze.me.ico",
     "slug": "yunze-me",
     "status": "down",
-    "uptime": "33.34%",
+    "uptime": "33.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "18.25%",
+    "uptimeYear": "18.23%",
     "time": 856,
     "timeDay": 503,
     "timeWeek": 1307,
     "timeMonth": 718,
     "timeYear": 736,
     "dailyMinutesDown": {
-      "2023-09-21": 75,
+      "2023-09-21": 161,
       "2023-09-20": 1440,
       "2023-09-19": 1440,
       "2023-09-18": 1440,
