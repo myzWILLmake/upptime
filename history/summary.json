@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 108,
-    "timeDay": 86,
-    "timeWeek": 66,
-    "timeMonth": 73,
+    "timeDay": 73,
+    "timeWeek": 68,
+    "timeMonth": 72,
     "timeYear": 110,
     "dailyMinutesDown": {
       "2023-10-02": 17
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 214,
-    "timeDay": 29,
-    "timeWeek": 146,
-    "timeMonth": 178,
-    "timeYear": 207,
+    "timeDay": 195,
+    "timeWeek": 145,
+    "timeMonth": 173,
+    "timeYear": 208,
     "dailyMinutesDown": {}
   },
   {
@@ -44,14 +44,14 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "89.11%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.44%",
     "uptimeMonth": "99.16%",
     "uptimeYear": "99.88%",
     "time": 369,
-    "timeDay": 239,
-    "timeWeek": 309,
-    "timeMonth": 1079,
+    "timeDay": 131,
+    "timeWeek": 285,
+    "timeMonth": 1072,
     "timeYear": 391,
     "dailyMinutesDown": {
       "2024-01-10": 157,
@@ -71,15 +71,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/yunze.me.ico",
     "slug": "yunze-me",
     "status": "up",
-    "uptime": "34.34%",
+    "uptime": "34.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "34.97%",
     "uptimeMonth": "85.04%",
-    "uptimeYear": "11.77%",
-    "time": 773,
-    "timeDay": 515,
-    "timeWeek": 872,
-    "timeMonth": 1292,
+    "uptimeYear": "12.04%",
+    "time": 772,
+    "timeDay": 572,
+    "timeWeek": 697,
+    "timeMonth": 1271,
     "timeYear": 700,
     "dailyMinutesDown": {
       "2024-01-09": 913,
@@ -403,8 +403,7 @@
       "2023-01-16": 1440,
       "2023-01-15": 1440,
       "2023-01-14": 1440,
-      "2023-01-13": 1440,
-      "2023-01-12": 1440
+      "2023-01-13": 1440
     }
   }
 ]
