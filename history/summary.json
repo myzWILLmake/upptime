@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 107,
-    "timeDay": 71,
-    "timeWeek": 89,
-    "timeMonth": 81,
-    "timeYear": 110,
+    "timeDay": 176,
+    "timeWeek": 104,
+    "timeMonth": 85,
+    "timeYear": 111,
     "dailyMinutesDown": {
       "2023-10-02": 17
     }
@@ -30,10 +30,10 @@
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 212,
-    "timeDay": 347,
-    "timeWeek": 253,
-    "timeMonth": 233,
+    "time": 211,
+    "timeDay": 217,
+    "timeWeek": 266,
+    "timeMonth": 234,
     "timeYear": 207,
     "dailyMinutesDown": {
       "2024-02-22": 16
@@ -46,17 +46,16 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 366,
-    "timeDay": 248,
-    "timeWeek": 245,
+    "time": 367,
+    "timeDay": 272,
+    "timeWeek": 279,
     "timeMonth": 272,
-    "timeYear": 372,
+    "timeYear": 373,
     "dailyMinutesDown": {
-      "2024-02-25": 6,
       "2024-01-10": 157,
       "2023-12-12": 211,
       "2023-11-21": 19,
@@ -74,16 +73,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/yunze.me.ico",
     "slug": "yunze-me",
     "status": "up",
-    "uptime": "39.18%",
+    "uptime": "39.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.12%",
-    "uptimeYear": "24.08%",
+    "uptimeYear": "24.21%",
     "time": 803,
-    "timeDay": 715,
-    "timeWeek": 638,
-    "timeMonth": 757,
-    "timeYear": 721,
+    "timeDay": 679,
+    "timeWeek": 670,
+    "timeMonth": 760,
+    "timeYear": 722,
     "dailyMinutesDown": {
       "2024-02-02": 124,
       "2024-02-01": 697,
@@ -363,8 +362,7 @@
       "2023-03-02": 1440,
       "2023-03-01": 1440,
       "2023-02-28": 1440,
-      "2023-02-27": 1440,
-      "2023-02-26": 1440
+      "2023-02-27": 1440
     }
   }
 ]
