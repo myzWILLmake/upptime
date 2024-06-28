@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 112,
-    "timeDay": 80,
-    "timeWeek": 87,
-    "timeMonth": 82,
-    "timeYear": 114,
+    "timeDay": 231,
+    "timeWeek": 108,
+    "timeMonth": 86,
+    "timeYear": 115,
     "dailyMinutesDown": {
       "2024-05-01": 45,
       "2023-10-02": 17
@@ -32,10 +32,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 216,
-    "timeDay": 231,
-    "timeWeek": 199,
-    "timeMonth": 351,
-    "timeYear": 223,
+    "timeDay": 68,
+    "timeWeek": 186,
+    "timeMonth": 347,
+    "timeYear": 222,
     "dailyMinutesDown": {
       "2024-02-22": 16
     }
@@ -47,17 +47,16 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.91%",
     "time": 355,
-    "timeDay": 264,
+    "timeDay": 248,
     "timeWeek": 290,
-    "timeMonth": 303,
-    "timeYear": 376,
+    "timeMonth": 295,
+    "timeYear": 375,
     "dailyMinutesDown": {
-      "2024-06-27": 6,
       "2024-06-16": 15,
       "2024-02-29": 15,
       "2024-01-10": 157,
@@ -73,16 +72,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/yunze.me.ico",
     "slug": "yunze-me",
     "status": "up",
-    "uptime": "49.07%",
+    "uptime": "49.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "90.65%",
-    "uptimeYear": "56.75%",
-    "time": 701,
-    "timeDay": 669,
-    "timeWeek": 742,
-    "timeMonth": 683,
-    "timeYear": 780,
+    "uptimeYear": "56.86%",
+    "time": 700,
+    "timeDay": 424,
+    "timeWeek": 719,
+    "timeMonth": 671,
+    "timeYear": 779,
     "dailyMinutesDown": {
       "2024-06-13": 522,
       "2024-06-12": 1440,
@@ -243,8 +242,7 @@
       "2023-07-03": 1440,
       "2023-07-02": 1440,
       "2023-07-01": 1440,
-      "2023-06-30": 1440,
-      "2023-06-29": 1440
+      "2023-06-30": 1440
     }
   }
 ]
