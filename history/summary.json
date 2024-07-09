@@ -26,9 +26,9 @@
     "url": "https://en.wikipedia.org",
     "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
     "slug": "wikipedia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -38,6 +38,7 @@
     "timeMonth": 189,
     "timeYear": 219,
     "dailyMinutesDown": {
+      "2024-07-09": 0,
       "2024-02-22": 16
     }
   },
@@ -73,11 +74,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/yunze.me.ico",
     "slug": "yunze-me",
     "status": "up",
-    "uptime": "49.85%",
+    "uptime": "49.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "90.65%",
-    "uptimeYear": "59.88%",
+    "uptimeYear": "59.90%",
     "time": 703,
     "timeDay": 998,
     "timeWeek": 799,
