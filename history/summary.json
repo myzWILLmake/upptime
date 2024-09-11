@@ -11,8 +11,8 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 113,
-    "timeDay": 83,
-    "timeWeek": 107,
+    "timeDay": 93,
+    "timeWeek": 106,
     "timeMonth": 111,
     "timeYear": 114,
     "dailyMinutesDown": {
@@ -34,9 +34,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 222,
-    "timeDay": 41,
-    "timeWeek": 170,
-    "timeMonth": 193,
+    "timeDay": 173,
+    "timeWeek": 142,
+    "timeMonth": 196,
     "timeYear": 219,
     "dailyMinutesDown": {
       "2024-02-22": 16
@@ -53,10 +53,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.91%",
-    "time": 358,
-    "timeDay": 280,
-    "timeWeek": 259,
-    "timeMonth": 282,
+    "time": 359,
+    "timeDay": 307,
+    "timeWeek": 275,
+    "timeMonth": 288,
     "timeYear": 377,
     "dailyMinutesDown": {
       "2024-08-24": 17,
@@ -74,15 +74,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/yunze.me.ico",
     "slug": "yunze-me",
     "status": "up",
-    "uptime": "53.79%",
+    "uptime": "53.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "77.14%",
+    "uptimeYear": "77.41%",
     "time": 721,
-    "timeDay": 565,
-    "timeWeek": 658,
-    "timeMonth": 669,
+    "timeDay": 670,
+    "timeWeek": 659,
+    "timeMonth": 675,
     "timeYear": 787,
     "dailyMinutesDown": {
       "2024-06-13": 522,
@@ -169,8 +169,7 @@
       "2023-09-16": 1440,
       "2023-09-15": 1440,
       "2023-09-14": 1440,
-      "2023-09-13": 1440,
-      "2023-09-12": 1440
+      "2023-09-13": 1440
     }
   }
 ]
