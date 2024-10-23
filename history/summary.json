@@ -48,17 +48,16 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "98.96%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.92%",
     "time": 359,
     "timeDay": 290,
     "timeWeek": 317,
     "timeMonth": 318,
     "timeYear": 379,
     "dailyMinutesDown": {
-      "2024-10-22": 15,
       "2024-08-24": 17,
       "2024-06-16": 15,
       "2024-02-29": 15,
@@ -73,7 +72,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/yunze.me.ico",
     "slug": "yunze-me",
     "status": "down",
-    "uptime": "51.81%",
+    "uptime": "51.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -84,7 +83,8 @@
     "timeMonth": 840,
     "timeYear": 799,
     "dailyMinutesDown": {
-      "2024-10-22": 1407,
+      "2024-10-23": 107,
+      "2024-10-22": 1440,
       "2024-10-21": 1440,
       "2024-10-20": 1440,
       "2024-10-19": 1440,
@@ -163,8 +163,7 @@
       "2023-10-28": 1440,
       "2023-10-27": 1440,
       "2023-10-26": 1440,
-      "2023-10-25": 1440,
-      "2023-10-24": 1440
+      "2023-10-25": 1440
     }
   }
 ]
