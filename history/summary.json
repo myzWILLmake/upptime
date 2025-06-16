@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 113,
-    "timeDay": 72,
+    "timeDay": 90,
     "timeWeek": 92,
-    "timeMonth": 102,
+    "timeMonth": 101,
     "timeYear": 113,
     "dailyMinutesDown": {
       "2024-09-02": 16,
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 226,
-    "timeDay": 87,
-    "timeWeek": 199,
-    "timeMonth": 167,
-    "timeYear": 217,
+    "time": 227,
+    "timeDay": 713,
+    "timeWeek": 291,
+    "timeMonth": 179,
+    "timeYear": 218,
     "dailyMinutesDown": {
       "2025-05-24": 18
     }
@@ -52,13 +52,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 311,
-    "timeDay": 335,
-    "timeWeek": 386,
-    "timeMonth": 320,
+    "timeDay": 436,
+    "timeWeek": 390,
+    "timeMonth": 329,
     "timeYear": 314,
     "dailyMinutesDown": {
-      "2024-08-24": 17,
-      "2024-06-16": 15
+      "2024-08-24": 17
     }
   },
   {
@@ -67,18 +66,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/yunze.me.ico",
     "slug": "yunze-me",
     "status": "down",
-    "uptime": "40.54%",
+    "uptime": "40.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "25.55%",
-    "time": 636,
-    "timeDay": 502,
-    "timeWeek": 477,
-    "timeMonth": 467,
+    "uptimeYear": "25.28%",
+    "time": 635,
+    "timeDay": 474,
+    "timeWeek": 481,
+    "timeMonth": 469,
     "timeYear": 607,
     "dailyMinutesDown": {
-      "2025-06-15": 143,
+      "2025-06-16": 132,
+      "2025-06-15": 1440,
       "2025-06-14": 1440,
       "2025-06-13": 1440,
       "2025-06-12": 1440,
